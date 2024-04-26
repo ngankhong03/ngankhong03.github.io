@@ -12,7 +12,7 @@ Welcome to my Portfolio! I'm a software engineer at Microsoft, where I work on e
 
 ## My Projects
 
-Here you'll find a range of projects I've worked on in my spare time. Each repository will give you a sense of my interests and the technologies I'm exploring. Feel free to fork, star, and contribute!
+Here you'll find a range of projects I've worked on in my spare time. Each repository will give you a sense of my interests and the technologies I'm exploring.
 
 ## Let's Connect
 
