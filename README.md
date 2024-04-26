@@ -21,3 +21,5 @@ I'm always open to connecting with fellow developers and tech enthusiasts. If yo
 - [LinkedIn](https://linkedin.com/in/ngan-khong)
 
 Thank you for visiting my profile!
+
+
